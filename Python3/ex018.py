@@ -1,3 +1,6 @@
-from math import sin, cos, tan
+from math import sin, cos, tan, radians
 angulo = int(input('Informe o ângulo:\n'))
-print('O seno do ângulo é {:.6f}, o cosneno é {:.6f}, e a tangente é {:.6f}.'.format(sin(angulo), cos(angulo), tan(angulo)))
+seno = sin(radians(angulo))
+cosseno = cos(radians(angulo))
+tangente = tan(radians(angulo))
+print('O seno do ângulo é {:.6f}, o cosneno é {:.6f}, e a tangente é {:.6f}.\n'.format(seno, cosseno, tangente))
