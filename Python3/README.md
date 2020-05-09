@@ -4,4 +4,4 @@ Exercícos do curso de [Python 3](https://www.youtube.com/playlist?list=PLHz_Are
 **Ambiente de desenvolvimento:**
 * Versão: **Python 3.8.3rc1**
 * SO: **Microsoft Windowns 10 Pro**
-* Editor/IDE: **Microsoft Visual Studio Code v1.44.2**
+* Editor/IDE: **Microsoft Visual Studio Code v1.45.0**
